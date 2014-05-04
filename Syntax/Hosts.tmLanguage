@@ -7,7 +7,7 @@
 		<string>hosts</string>
 	</array>
 	<key>name</key>
-	<string>Hosts Config</string>
+	<string>Hosts</string>
 	<key>patterns</key>
 	<array>
 		<dict>
