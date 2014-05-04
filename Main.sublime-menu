@@ -1,0 +1,13 @@
+[
+    {
+        "caption": "Tools",
+        "id": "tools",
+        "children":
+        [
+            {
+                "command": "open_hosts_file",
+                "caption": "Open hosts file"
+            }
+        ]
+    }
+]
