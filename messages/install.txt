@@ -1,0 +1,27 @@
+============================================================
+Thank you for installing HostsEdit
+============================================================
+
+Features
+--------
+
+- Quickly open your hosts file with a hotkey or via the menu
+- Hosts file syntax highlighting
+
+Usage
+-----
+
+To open your hosts file you can do one of the following:
+
+- Press ctrl+shift+h
+	(if you are on OSX, use: command+shift+h)
+
+- Go to: "Tools" -> "Open hosts file"
+
+
+=============================================
+This package is compatible with both Sublime
+Text versions 2 & 3.
+
+Bugs and Questions can be submitted here:
+https://github.com/Bogardo/SublimeHostsEdit
