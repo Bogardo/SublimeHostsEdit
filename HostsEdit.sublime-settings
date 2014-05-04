@@ -1,0 +1,5 @@
+{
+   "windows": "C:/Windows/System32/drivers/etc/hosts",
+   "linux": "/etc/hosts",
+   "osx": "/private/etc/hosts"
+}
