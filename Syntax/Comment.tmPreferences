@@ -14,11 +14,11 @@
 				<key>name</key>
 				<string>TM_COMMENT_START</string>
 				<key>value</key>
-				<string>#HAH# </string>
+				<string># </string>
 			</dict>
 		</array>
 	</dict>
 	<key>uuid</key>
-	<string>E6CBDBA3-30DC-4EBD-B4DD-2527FBEED52A</string>
+	<string>109bf882-dd70-4103-804d-7440ab52f9e3</string>
 </dict>
 </plist>
