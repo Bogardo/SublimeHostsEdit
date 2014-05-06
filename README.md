@@ -11,7 +11,7 @@ This plugin adds a hotkey for opening your hosts file.
 
 * Windows: `ctrl+shift+h`
 * Linux: `ctrl+shift+h`
-* OSX: `md+shift+h`
+* OSX: `cmd+shift+h`
 
 There is also an extra menu option under `Tools`
 
